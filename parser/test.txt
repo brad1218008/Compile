@@ -1,0 +1,5 @@
+Speed
+Velocity*Time
+b*b-4*a*c
+a+((b-c)*(a-2)+3)/4
+-X3/((Y12+6)*8z88/3-8)/93
