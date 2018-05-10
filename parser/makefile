@@ -1,5 +1,5 @@
 cc:=gcc
-oobj:=main.o parser.o
+oobj:=main.o
 
 all:main
 	
